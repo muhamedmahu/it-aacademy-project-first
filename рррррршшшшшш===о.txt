@@ -1,0 +1,21 @@
+user@DESKTOP-STDONOT MINGw64
+bash: user@DESKTOP-STDONOT: command not found
+
+User@WIN-6GD7JT8Q81D MINGW64 ~/Desktop/it-academy
+$ git config --global user.email "muhamedmahu"
+
+User@WIN-6GD7JT8Q81D MINGW64 ~/Desktop/it-academy
+$ git config --global user.name "muhamedmahu@gmail.com"
+
+User@WIN-6GD7JT8Q81D MINGW64 ~/Desktop/it-academy
+$
+
+User@WIN-6GD7JT8Q81D MINGW64 ~/Desktop/it-academy
+$
+
+git scm
+node js
+telegram
+сематичкские теги
+<a.....>
+<img......>
